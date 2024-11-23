@@ -1,3 +1,2 @@
 # RecipeSite
-Creating a recipe website.
-A small project to fine my html skills.
+A small project on how to make coffee.
